@@ -1,0 +1,16 @@
+id,Classificação do hotel,Meses da reserva até o check-in,Número de pernoites reservadas,Número de hospedes,Regime de alimentação,Nacionalidade,Forma de Reserva,Já se hospedou anterioremente,Tipo do quarto reservado,Reserva feita por agência de turismo,Reserva feita por empresa,Reserva com Estacionamento,Reserva com Observações,prediction
+117232,4 estrelas,8,3,2.0,Café da manha,Belgium,Agência,Não,Amethyst,Sim,Não,Não,1 a 3,0
+16513,5 estrelas,2,7,2.0,Café da manha e jantar,Spain,Agência,Não,Amethyst,Sim,Não,Não,Nenhuma,0
+87665,4 estrelas,3,3,1.0,Café da manha,Germany,Agência,Não,Amethyst,Sim,Não,Não,Nenhuma,0
+27127,5 estrelas,4,4,3.0,Café da manha,Spain,Balcão,Não,Tanzanite,Sim,Não,Sim,Nenhuma,0
+56794,4 estrelas,2,3,1.0,Café da manha,United States,Agência,Não,Green Emerald,Sim,Não,Não,1 a 3,1
+72162,4 estrelas,8,3,2.0,Café da manha,Spain,Agência,Não,Amethyst,Não,Não,Não,Nenhuma,1
+93179,4 estrelas,2,1,1.0,Café da manha,Spain,B2B,Não,Amethyst,Não,Sim,Não,Nenhuma,0
+28724,5 estrelas,1,1,1.0,Café da manha,Spain,Agência,Não,Amethyst,Sim,Não,Sim,Nenhuma,0
+31248,5 estrelas,1,2,1.0,Café da manha,Italy,Agência,Não,Amethyst,Sim,Não,Não,Nenhuma,0
+58695,4 estrelas,4,1,1.0,Café da manha,Spain,Agência,Não,Pink Sapphire,Sim,Não,Não,Nenhuma,1
+13406,5 estrelas,5,3,2.0,Café da manha,Spain,Agência,Não,Pink Sapphire,Sim,Não,Não,1 a 3,1
+18717,5 estrelas,1,1,1.0,Café da manha,Spain,Agência,Sim,Green Emerald,Sim,Não,Não,Nenhuma,0
+66480,4 estrelas,10,5,2.0,Sem refeicao,Brazil,Agência,Não,Amethyst,Sim,Não,Não,1 a 3,1
+74978,4 estrelas,10,2,2.0,Café da manha,Spain,Agência,Não,Amethyst,Sim,Não,Não,Nenhuma,1
+72092,4 estrelas,10,4,2.0,Sem refeicao,Brazil,Agência,Não,Amethyst,Sim,Não,Não,1 a 3,1
